@@ -42,7 +42,7 @@ instruccion show para convertir a string.
  -}
  
 meses :: [[Char]]
-meses = ["Enero","Febrero","Marzo","Abril","Mayo","Junio","Agosto","Septiembre","Octubre","Noviembre","Diciembre"]
+meses = ["Enero","Febrero","Marzo","Abril","Mayo","Junio","Julio","Agosto","Septiembre","Octubre","Noviembre","Diciembre"]
 
 
 showFechas :: (Int, Int, Int) -> [Char]
